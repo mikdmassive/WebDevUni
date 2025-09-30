@@ -1,0 +1,29 @@
+h1,h2,h3,address{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+table{ 
+    width: 50%; /* Set a width for the table */ 
+    margin: 0 auto; /* Center the table horizontally */ 
+    border-collapse: collapse; /* Optional: for better styling */ 
+}   
+div{ 
+    width: 85%;  
+    margin: 0 auto; 
+    border-collapse: collapse; 
+}     
+ 
+p,tr{
+    color: rgba(77, 77, 77);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+li{
+    color: rgba(77, 77, 77);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    vertical-align: text-top;
+    list-style-position: inside;
+}
