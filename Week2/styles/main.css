@@ -9,15 +9,26 @@ table{
     border-collapse: collapse; /* Optional: for better styling */ 
 }   
 div{ 
-    width: 85%;  
+    width: 100%;  
     margin: 0 auto; 
     border-collapse: collapse; 
+    background-color: rgba(246, 188, 236, 0.648);
 }     
- 
+.qualifications{
+    width: 100%;  
+    margin: 0 auto; 
+    border-collapse: collapse;
+    padding-left: 0px;
+  
+} 
 p,tr{
     color: rgba(77, 77, 77);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+      width: 70%;  
+    margin: 0 auto; 
+    border-collapse: collapse;
+    padding-left: 0px; 
 }
 
 li{
@@ -26,4 +37,20 @@ li{
     text-align: center;
     vertical-align: text-top;
     list-style-position: inside;
+    
+}
+ul{
+    margin: 0;
+    padding: 0px;
+}
+span{
+    color: brown;
+}
+
+#footer{
+       width: 100%;  
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-image:url("images/forest.jpg");
 }
