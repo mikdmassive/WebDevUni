@@ -69,3 +69,10 @@ body{
 img{
     width: 100%;
 }
+.ProfilePhoto{
+    width: 30%;
+    height: 30%;
+      outline: solid;
+    outline-width: 3px;
+    outline-color: black;
+}
