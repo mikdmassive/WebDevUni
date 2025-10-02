@@ -3,6 +3,10 @@ h1,h2,h3,address{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+dt{
+     color: black;
+     font-weight:bold;
+}
 table{ 
     width: 50%; /* Set a width for the table */ 
     margin: 0 auto; /* Center the table horizontally */ 
@@ -55,4 +59,13 @@ body{
     background-image: url(/Week2/images/forest.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+}
+.container{
+    width: 80%;
+    outline: solid;
+    outline-width: 3px;
+    outline-color: black;
+}
+img{
+    width: 100%;
 }
