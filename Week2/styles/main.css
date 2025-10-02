@@ -12,7 +12,7 @@ div{
     width: 100%;  
     margin: 0 auto; 
     border-collapse: collapse; 
-    background-color: rgba(246, 188, 236, 0.648);
+    background-color: rgb(255, 255, 255);
 }     
 .qualifications{
     width: 100%;  
@@ -49,8 +49,10 @@ span{
 
 #footer{
        width: 100%;  
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(210, 210, 210);
 }
 body{
-    background-image:url("images/forest.jpg");
+    background-image: url(/Week2/images/forest.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
